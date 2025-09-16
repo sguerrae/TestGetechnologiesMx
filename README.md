@@ -19,6 +19,14 @@ Las siguientes imágenes en la carpeta `Evidencias` muestran la ejecución y res
 - `Evidencias/imagen3.png` - Mensajes de rollback/backup (si aplica).
 - `Evidencias/imagen4.png` - Limpieza y finalización de la simulación.
 
+
+### Diagramas del proyecto
+
+Puedes ver los diagramas detallados del proyecto (flujo, secuencia y clases) en el siguiente enlace:
+
+[Ver diagramas en Google Drive](https://drive.google.com/file/d/1vKQ9wY4G5URAhOp6-oJoeeyo1Bof9oBx/view?usp=sharing)
+
+
 ---
 
 Más detalles técnicos y uso en `README` del proyecto.
