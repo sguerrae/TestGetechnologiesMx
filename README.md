@@ -19,7 +19,7 @@ Las siguientes imágenes en la carpeta `Evidencias` muestran la ejecución y res
 ![Diagrama de flujo](Evidencias/1.png)
 ![Diagrama de secuencia](Evidencias/2.png)
 ![Diagrama de clases](Evidencias/3.png)
-![ Ejecución inicial y creación de archivos de origen,  Proceso de copia/actualización de archivos. Mensajes de rollback/backup (si aplica). Limpieza y finalización de la simulación.](Evidencias/Evidencia Funcionamiento.png)
+![ Ejecución inicial y creación de archivos de origen,  Proceso de copia/actualización de archivos. Mensajes de rollback/backup (si aplica). Limpieza y finalización de la simulación.](Evidencias/Funcionamiento.png)
 
 ### Diagramas del proyecto
 
