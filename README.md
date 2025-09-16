@@ -12,13 +12,14 @@ No subas los compilados al repo
 
 ## Evidencias
 
+## Evidencias
+
 Las siguientes imágenes en la carpeta `Evidencias` muestran la ejecución y resultados de la simulación:
 
-- `Evidencias/1.png` - Ejecución inicial y creación de archivos de origen.
-- `Evidencias/2.png` - Proceso de copia/actualización de archivos.
-- `Evidencias/3.png` - Mensajes de rollback/backup (si aplica).
-- `Evidencias/Evidencia Funcionamiento.png` - Limpieza y finalización de la simulación.
-
+![Diagrama de flujo](Evidencias/1.png)
+![Diagrama de secuencia](Evidencias/2.png)
+![Diagrama de clases](Evidencias/3.png)
+![ Ejecución inicial y creación de archivos de origen,  Proceso de copia/actualización de archivos. Mensajes de rollback/backup (si aplica). Limpieza y finalización de la simulación.](Evidencias/Evidencia Funcionamiento.png)
 
 ### Diagramas del proyecto
 
