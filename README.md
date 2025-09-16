@@ -12,7 +12,7 @@ No subas los compilados al repo
 
 ## Evidencias
 
-Las siguientes imágenes en la carpeta `Evidencias` muestran la ejecución y resultados de la simulación (modo dummy):
+Las siguientes imágenes en la carpeta `Evidencias` muestran la ejecución y resultados de la simulación:
 
 - `Evidencias/imagen1.png` - Ejecución inicial y creación de archivos de origen.
 - `Evidencias/imagen2.png` - Proceso de copia/actualización de archivos.
